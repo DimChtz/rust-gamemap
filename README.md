@@ -1,4 +1,4 @@
-# rust-gamemap
+# rust-gamemap (gamemap) - v0.1.0
 A small 2D Map library for console games in Rust.
 
 # How to use
