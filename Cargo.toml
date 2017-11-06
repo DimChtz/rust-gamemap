@@ -1,0 +1,11 @@
+[package]
+name = "gamemap"
+version = "0.1.0"
+authors = ["DimChtz"]
+description = "A small 2D Map library for console games in Rust."
+keywords = ["game", "map", "board", "console", "gamemap"]
+license = "MIT"
+repository = "https://github.com/DimChtz/rust-gamemap"
+readme = "README.md"
+
+[dependencies]
